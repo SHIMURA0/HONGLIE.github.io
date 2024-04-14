@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Honglie Zhang"
+title                    : "Mathématiques"
 title_separator          : "-"
 name                     : &name "Honglie Zhang"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "v2-eb24f77e5a357ce32a8416fbbd3d8b72_r.jpg.png"
   name             : "Honglie Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Mathematician"
   location         : "Singapore"
   employer         : "Nanyang Technological University"
   uri              : # URL
