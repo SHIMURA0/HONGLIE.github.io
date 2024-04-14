@@ -9,6 +9,7 @@ tags:
 ---
 
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Today I am learning EGA on affine schemes $$X=\text{Spec}A$$.
 
 <script src="https://giscus.app/client.js"
         data-repo="SHIMURA0/SHIMURA0.github.io"
