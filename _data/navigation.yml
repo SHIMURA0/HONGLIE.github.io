@@ -1,18 +1,20 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Mathematics"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Computer Science"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Statistics"
+    url: /teaching/ 
     
-  - title: "Portfolio"
+  - title: "Physics"
+    
+  - title: "Project"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Academical Writing"
     url: /year-archive/
     
   - title: "CV"
