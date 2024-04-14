@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <script src="https://giscus.app/client.js"
-        data-repo="[ENTER REPO HERE]"
+        data-repo="SHIMURA0/SHIMURA0.github.io"
         data-repo-id="[ENTER REPO ID HERE]"
         data-category="[ENTER CATEGORY NAME HERE]"
         data-category-id="[ENTER CATEGORY ID HERE]"
