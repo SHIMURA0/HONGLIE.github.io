@@ -13,9 +13,9 @@ Today I am learning EGA on affine schemes $$X=\text{Spec}A$$.
 
 <script src="https://giscus.app/client.js"
         data-repo="SHIMURA0/SHIMURA0.github.io"
-        data-repo-id="[ENTER REPO ID HERE]"
-        data-category="[ENTER CATEGORY NAME HERE]"
-        data-category-id="[ENTER CATEGORY ID HERE]"
+        data-repo-id="R_kgDOLstL4Q"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOLstL4c4CerdS"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
